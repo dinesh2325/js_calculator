@@ -1,0 +1,50 @@
+.text-center{
+  text-align: center;
+}
+
+.bg-blue
+{
+  background-color: #2d2e2e;
+}
+.row
+{
+  text-align:center;
+  margin-left:0.5rem;
+  margin-right:0.5rem;
+  margin-top:0.5rem;
+  margin-bottom:0.5rem;
+  
+}
+.button{
+  height:3rem;
+  width:3rem;
+  font-size:large;
+ 
+}
+.box{
+  padding-left: 4rem;
+  padding-top: 3rem;
+  
+  border: solid;
+}
+.container
+{
+  padding-left:0rem;
+  padding-right:0rem;
+  padding-bottom:0.5rem;
+ 
+  max-width: 15rem;
+  align-items: center;
+   margin:auto;
+}
+
+input[type=text] {
+  font-style:italic;
+  font-weight: bolder;
+
+  
+}
+.hole
+{
+  background-color:#819192;
+}
